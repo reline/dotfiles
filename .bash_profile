@@ -1,3 +1,13 @@
+export PATH="~/development/flutter/bin:/Applications/Fortify/Fortify_SCA_and_Apps_18.20/bin:/usr/local/var/rbenv/shims:/usr/local/var/rbenv:/usr/local/bin/rbenv:~/.fastlane/bin:/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3/bin:~/Library/Android/sdk/emulator:~/Library/Android/sdk/tools/bin:~/Library/Android/sdk/platform-tools:~/Library/Android/sdk/tools:~/.nvm/versions/node/v12.16.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:$PATH"
+
+export JAVA_HOME="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home"
+export PATH="$JAVA_HOME:$PATH"
+
+export ANDROID_SDK="~/Library/Android/sdk"
+export PATH="$ANDROID_SDK:$PATH"
+
+alias dev='cd ~/development'
+
 # Add `~/bin` to the `$PATH`
 export PATH="$HOME/bin:$PATH";
 
